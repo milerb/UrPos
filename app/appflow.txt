@@ -1,0 +1,36 @@
+main.py
+database
+    |___database.py
+models
+    |___init.py
+    |___base.py
+    |___product.py
+    |___purchase.py
+    |___sale.py
+    |___supplier.py
+    |___user.py
+repository
+    |___init.py
+    |___base.py
+    |___product.py
+    |___purchase.py
+    |___sale.py
+    |___supplier.py
+    |___user.py
+utils
+    |___init.py
+    |___hasher.py
+    |___log.py
+    |___utils.py
+views
+    |___app_view.py
+        |___menu
+        |___tabs
+        |___settings
+        |___user_settings
+    |___base.py
+    |___products.py
+    |___purchase.py
+    |___sale.py
+    |___supplier.py
+    |___user.py
